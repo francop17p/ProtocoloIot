@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1738469711 source:c:\users\franco\desktop\prueba\main.cpp
+	<iostream>
+	"IoTProtocol.h"
+
+1738465076 c:\users\franco\desktop\prueba\iotprotocol.h
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<string>
+
+1738465146 source:c:\users\franco\desktop\prueba\iotprotocol.cpp
+	"IoTProtocol.h"
+	<iostream>
+	<cstring>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+

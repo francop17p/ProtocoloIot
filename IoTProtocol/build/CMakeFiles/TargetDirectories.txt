@@ -1,0 +1,4 @@
+C:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol/build/CMakeFiles/IoTProtocol.dir
+C:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol/build/CMakeFiles/example.dir
+C:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol/build/CMakeFiles/ZERO_CHECK.dir

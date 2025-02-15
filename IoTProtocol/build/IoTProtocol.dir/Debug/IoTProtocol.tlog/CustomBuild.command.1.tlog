@@ -1,0 +1,10 @@
+^C:\USERS\FRANCO\ONEDRIVE - UNIVERSIDAD AUTONOMA DE SAN LUIS POTOSI - UASLP\TRABAJOS\PROYECTOS COMPUTACIONALES 3\PRUEBA\IOTPROTOCOL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol" "-BC:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol/build" --check-stamp-file "C:/Users/Franco/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Trabajos/Proyectos Computacionales 3/prueba/IoTProtocol/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

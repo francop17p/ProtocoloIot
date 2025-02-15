@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Franco\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Trabajos\Proyectos Computacionales 3\prueba\IoTProtocol\build\CMakeFiles\60d1e40062c5d69c0793203d0feea15b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{504358A5-34A6-30F0-9F54-A11B3833BD04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
